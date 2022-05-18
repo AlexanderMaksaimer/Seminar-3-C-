@@ -1,0 +1,15 @@
+/Users/mariashiraeva/Desktop/Семинар 3 C#/Example1/bin/Debug/net6.0/Example1
+/Users/mariashiraeva/Desktop/Семинар 3 C#/Example1/bin/Debug/net6.0/Example1.deps.json
+/Users/mariashiraeva/Desktop/Семинар 3 C#/Example1/bin/Debug/net6.0/Example1.runtimeconfig.json
+/Users/mariashiraeva/Desktop/Семинар 3 C#/Example1/bin/Debug/net6.0/Example1.dll
+/Users/mariashiraeva/Desktop/Семинар 3 C#/Example1/bin/Debug/net6.0/Example1.pdb
+/Users/mariashiraeva/Desktop/Семинар 3 C#/Example1/obj/Debug/net6.0/Example1.csproj.AssemblyReference.cache
+/Users/mariashiraeva/Desktop/Семинар 3 C#/Example1/obj/Debug/net6.0/Example1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariashiraeva/Desktop/Семинар 3 C#/Example1/obj/Debug/net6.0/Example1.AssemblyInfoInputs.cache
+/Users/mariashiraeva/Desktop/Семинар 3 C#/Example1/obj/Debug/net6.0/Example1.AssemblyInfo.cs
+/Users/mariashiraeva/Desktop/Семинар 3 C#/Example1/obj/Debug/net6.0/Example1.csproj.CoreCompileInputs.cache
+/Users/mariashiraeva/Desktop/Семинар 3 C#/Example1/obj/Debug/net6.0/Example1.dll
+/Users/mariashiraeva/Desktop/Семинар 3 C#/Example1/obj/Debug/net6.0/refint/Example1.dll
+/Users/mariashiraeva/Desktop/Семинар 3 C#/Example1/obj/Debug/net6.0/Example1.pdb
+/Users/mariashiraeva/Desktop/Семинар 3 C#/Example1/obj/Debug/net6.0/Example1.genruntimeconfig.cache
+/Users/mariashiraeva/Desktop/Семинар 3 C#/Example1/obj/Debug/net6.0/ref/Example1.dll
